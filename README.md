@@ -10,7 +10,7 @@ This project implements two graph search algorithms: Dijkstra's algorithm for we
 
 ## Project Structure
 
-- `Main.java`: Entry point of the application. It sets up the graphs, performs the searches, and prints the paths.
+- `Main.java`:  Entry point of the application. It sets up the graphs, performs the searches, and prints the paths.
 - `Graph.java`: Interface defining the basic graph operations.
 - `MyGraph.java`: Implementation of an unweighted graph.
 - `WeightedGraph.java`: Implementation of a weighted graph.
